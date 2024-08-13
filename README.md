@@ -29,7 +29,7 @@ Keep your Discord account online in voice channels 24/7.
 
 ## Usage
 
-Run the bot script:
+Run the script:
 
 ```bash
 python main.py
