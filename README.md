@@ -23,7 +23,7 @@ Keep your Discord account online in voice channels 24/7.
     pip install -r requirements.txt
     ```
 
-3. **Replace `Your_Token_Here`** in the script with your actual discord account token.
+3. **Replace `Your_Token_Here`** in the script with your actual Discord account token.
 
 4. **Replace `1111111111111111111`** in the script with the actual ID of the voice channel you want the account to connect to.
 
